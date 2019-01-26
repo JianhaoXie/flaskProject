@@ -1,0 +1,45 @@
+.question-title{
+    text-align: center;
+}
+
+.question-info{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.answer-list{
+    padding-left: 0;
+}
+
+.answer-list li{
+    padding-top: 10px;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+}
+
+.avatar{
+    width:40px;
+    height:40px;
+    /*给头像加圆角*/
+    border-radius: 50%;
+}
+
+.user-info{
+    font-size: 16px;
+    color: #9b9b9b;
+    line-height:40px;
+}
+
+.user-info .username{
+    margin-left: 15px;
+}
+
+.user-info .create-time{
+    float: right;
+}
+
+.answer-content{
+    font-size: 16px;
+    padding-left: 60px;
+}
+
